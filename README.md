@@ -36,7 +36,7 @@ This project leverages **Power BI**, **Excel**, and **Python** to explore, analy
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_sample.png)
+![Dashboard Preview](<img width="634" height="354" alt="image" src="https://github.com/user-attachments/assets/3fc35d69-b05b-4ab5-921d-09e5b2439d47" />)
 
 > 📎 *Forecasts are integrated into the dashboard using Power BI’s built-in analytics tools.*
 
@@ -85,6 +85,4 @@ Let’s connect and grow together as data professionals!
 
 - [LinkedIn](https://www.linkedin.com/in/chaitalimali/)  
 - [GitHub](https://github.com/Chaitali-mali/SuperStore-Sales-Forecast)
-   
-```bash
-git clone https://github.com/yourusername/superstore-sales-forecast.git
+- [Email](chaitalimali902@gmail.com)
