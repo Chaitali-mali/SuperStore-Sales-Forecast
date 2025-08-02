@@ -29,15 +29,14 @@ This project leverages **Power BI**, **Excel**, and **Python** to explore, analy
 - 📊 **Matplotlib**, **Seaborn** for data visualization  
 - 🤖 **Scikit-learn**, **Prophet** for modeling and forecasting  
 - 🧮 Time series decomposition  
-- 📉 Regression Models: Linear Regression, Random Forest, etc.  
-
+- 📉 Regression Models: Linear Regression, Random Forest, etc.
+-  
 ---
+## 📷 Sample Dashboard Screenshot
 
+> *(You can replace the image path with your actual screenshot file once added)*
 
-## 📊 Dashboard Preview
-
-![Dashboard Preview](<img width="634" height="354" alt="SuperStore Sales Forecast Dashboard " src="https://github.com/user-attachments/assets/422b9c93-1fd4-4ef1-93f6-ee01a04bf738" />
-) 📎 *Forecasts are integrated into the dashboard using Power BI’s built-in analytics tools.*
+![SuperStore Dashboard]("C:\Users\chait\OneDrive\Pictures\Screenshots\SuperStore Sales Forecast Dashboard .png")
 
 ---
 
