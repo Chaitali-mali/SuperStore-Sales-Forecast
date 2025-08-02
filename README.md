@@ -36,9 +36,7 @@ This project leverages **Power BI**, **Excel**, and **Python** to explore, analy
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](<img width="634" height="354" alt="image" src="https://github.com/user-attachments/assets/3fc35d69-b05b-4ab5-921d-09e5b2439d47" />)
-
-> 📎 *Forecasts are integrated into the dashboard using Power BI’s built-in analytics tools.*
+![Dashboard Preview](<img width="634" height="354" alt="SuperStore Sales Forecast Dashboard ">) 📎 *Forecasts are integrated into the dashboard using Power BI’s built-in analytics tools.*
 
 ---
 
