@@ -34,7 +34,7 @@ This project leverages **Power BI**, **Excel**, and **Python** to explore, analy
 ---
 ## 📷 Dashboard Preview
 
-> *(<img width="632" height="366" alt="HR Dashboard" src="https://github.com/user-attachments/assets/b59e6a36-98be-40ac-90ff-e58eee2d58c1" />)*
+> *(<img width="634" height="354" alt="SuperStore Sales Forecast Dashboard " src="https://github.com/user-attachments/assets/59d25012-cab3-4e77-80d9-ed1858f54805" />)*
 
 ---
 
