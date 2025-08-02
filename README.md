@@ -30,11 +30,11 @@ This project leverages **Power BI**, **Excel**, and **Python** to explore, analy
 - 🤖 **Scikit-learn**, **Prophet** for modeling and forecasting  
 - 🧮 Time series decomposition  
 - 📉 Regression Models: Linear Regression, Random Forest, etc.
--  
+  
 ---
-## 📷 Sample Dashboard Screenshot
+## 📷 Dashboard Preview
 
-![SuperStore Dashboard](<img width="634" height="354" alt="SuperStore Sales Forecast Dashboard " src="https://github.com/user-attachments/assets/2f7c4051-804e-4026-a93c-fd0ed280d411" />)
+> *(<img width="632" height="366" alt="HR Dashboard" src="https://github.com/user-attachments/assets/b59e6a36-98be-40ac-90ff-e58eee2d58c1" />)*
 
 ---
 
